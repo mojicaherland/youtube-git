@@ -1,0 +1,111 @@
+commit 405f21102bd34421c2e29c62c2712c5af20fdb9e
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 11:20:19 2024 -0400
+
+    agregando 2 parrafos
+
+commit 009947d916ce7ff3671a8633a53cdc879c14b1cf
+Merge: 3671f33 e795734
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 11:17:55 2024 -0400
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 3671f33a3434f45bdf77f72eab5086053d45c3dc
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 11:01:29 2024 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit e795734e064b46fa59e7627f4d4535cf06d1f376
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 11:01:29 2024 -0400
+
+    Agregando las estaciones del año
+
+commit 12827316d4e7cbf11e888db093e5ba8cdf0fc225
+Merge: eb106be 799a31f
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 10:56:10 2024 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 799a31ff76df58a10a483ad7596120d99a4977d3
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 10:45:24 2024 -0400
+
+    Agregando index.js al index.html
+
+commit eb106be18e5e94c6ce08eb0f49556bd97878cc04
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 10:43:37 2024 -0400
+
+    Agregando stlye.css al index.html
+
+commit 82de24a1e2f8605767f6ec836a5e1d0bbf836544
+Merge: 6d6509f f6f133f
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 10:33:00 2024 -0400
+
+    Merge branch 'java'
+
+commit 6d6509febb986f4feac5391dada8521c1465c5e0
+Merge: 9c8921f 4e9c70a
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 10:32:50 2024 -0400
+
+    Merge branch 'js'
+
+commit f6f133ffcccc863a834eed95a0a8ac0f795a30cb
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 10:26:45 2024 -0400
+
+    creando index.java
+
+commit 4e9c70a9b8781d28d6efd2e6c977a009b8f462ca
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 10:22:05 2024 -0400
+
+    creando index.js
+
+commit 9c8921f4453f5cd87abe209eb81780cfd44b03d1
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 10:15:16 2024 -0400
+
+    creando style.css
+
+commit 3427794c3a62c5646dbadb3b9408c22890d6ae3b
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 10:11:47 2024 -0400
+
+    creando index.html
+
+commit 694c9e87bc7d3eaac6bd7fde368b3edb95eb76be
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 10:02:03 2024 -0400
+
+    ignorando archivos .exe
+
+commit aea01a8a4799c6fb89f21f93943b8e7a4d4a561c
+Author: Herland Mojica Cardozo <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 09:48:06 2024 -0400
+
+    Create LICENSE del repositorio
+
+commit 4e10159099212f87ee01dd94bada61f39a8a73f7
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 09:43:21 2024 -0400
+
+    agregando mas contenido al README
+
+commit ded6ad43484796cf167c0dc762b7dae791077774
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 09:38:08 2024 -0400
+
+    agreando contenido inicial al readme
+
+commit d1a3816916c8bcd7815e2857beab9cf226062345
+Author: Herland Mojica <mojicacardozoh@gmail.com>
+Date:   Thu Feb 1 09:34:56 2024 -0400
+
+    firs commit
